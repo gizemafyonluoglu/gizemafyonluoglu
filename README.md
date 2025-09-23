@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there
 
 - 🏫 I'm a freshman at Bilkent University
 - 💻 Studying computer science
